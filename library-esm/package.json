@@ -1,0 +1,9 @@
+{
+  "name": "hello-world-esm-module",
+  "version": "1.0.4",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {},
+  "dependencies": {}
+}
